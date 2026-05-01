@@ -1,0 +1,30 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# LaTeX temporary files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.brf
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.xdv
+
+# Generated outputs
+*.dvi
+*.ps
+
+# Keep deliverable PDFs versionable when intentionally added.
+!07-entregas/**/*.pdf
+!09-referencias-formato/**/*.pdf
