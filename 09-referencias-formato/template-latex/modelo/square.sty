@@ -1,0 +1,22 @@
+\ProvidesPackage{square}[2025/03/14 Pacote para Quadros ABNT]
+
+% Pacotes necessários
+\RequirePackage{graphicx, array, booktabs, caption, float}
+
+% Criando um novo contador para Quadros (independente das tabelas)
+\newcounter{quadros}
+\renewcommand{\thequadros}{\arabic{quadros}} % Numeração sequencial simples
+
+% Criando o ambiente "quadro" com legenda apropriada
+\newenvironment{square}[1][]{%
+    \refstepcounter{quadros} % Incrementa o contador de quadros
+    \vspace{0.5cm} % Distância vertical da borda superior do quadro
+    \noindent\hspace{2.4cm}{Quadro \thequadros} -- #1 % Define a legenda "Quadro X" com distância da borda
+    \vspace{0.2cm}
+    \vspace{-0.1cm}
+    \centering
+}{%
+    \vspace{0.5cm}
+}
+
+\endinput

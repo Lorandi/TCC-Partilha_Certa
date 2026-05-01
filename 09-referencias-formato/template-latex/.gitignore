@@ -1,0 +1,17 @@
+# LaTeX temporary files
+*.aux
+*.bbl
+*.blg
+*.brf
+*.fls
+*.fdb_latexmk
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.dvi
+*.ps
+*.pdf
+
+# Log file
+*.log

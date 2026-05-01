@@ -1,0 +1,35 @@
+{
+    "name": "LaTeX Codespace",
+    "image": "ghcr.io/xu-cheng/texlive-full:latest",
+    "features": {
+      "ghcr.io/rocker-org/devcontainer-features/apt-packages:1": {}
+    },
+    "postCreateCommand": "apk add --no-cache gcc python3-dev musl-dev linux-headers && pip install --upgrade pip && pip install psutil ipykernel pandas matplotlib && sudo tlmgr install natbib",
+    "customizations": {
+      "vscode": {
+        "extensions": [
+          "James-Yu.latex-workshop",
+          "ms-python.python",
+          "ms-toolsai.jupyter",
+          "eamodio.gitlens",
+          "GitHub.copilot",
+          "GitHub.copilot-chat",
+          "GitHub.vscode-github-actions",
+          "GitHub.vscode-pull-request-github",
+          "streetsidesoftware.code-spell-checker-portuguese-brazilian",
+          "GrapeCity.gc-excelviewer",
+          "MS-vsliveshare.vsliveshare"
+        ],
+        "settings": {
+          "workbench.colorTheme": "Default Light Modern",
+          "workbench.iconTheme": "eq-material-theme-icons-light",
+          "editor.rulers": [80, 120],
+          "workbench.colorCustomizations": {
+            "editorRuler.foreground": "#F3F7FF"
+          },
+          "cSpell.enabled": true,
+          "cSpell.language": "pt_BR, en, pt"
+        }
+      }
+    }
+  }
