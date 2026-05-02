@@ -12,7 +12,7 @@ Este arquivo é a memória operacional do TCC. Ele deve ser atualizado sempre qu
 - **Tema:** Automação da partilha de bens no direito sucessório brasileiro.
 - **Recorte:** Modelagem e implementação de regras sucessórias brasileiras em uma aplicação web para cálculo e simulação de partilha de bens.
 - **Problema de pesquisa:** Como modelar e implementar regras do direito sucessório brasileiro em um sistema computacional de forma a favorecer a consistência jurídica e a precisão nos cálculos de partilha de bens?
-- **TCC:** A confirmar se TCC1 ou TCC2.
+- **TCC:** TCC1.
 - **Documento oficial de escrita:** `05-artigo-latex/main.tex`, quando o template for preparado.
 - **Memória de formato:** `09-referencias-formato/outros-tccs/resumo-formato.md`.
 
@@ -81,11 +81,11 @@ Pendências antes de usar como base final:
 | 2026-05-01 | Definir tema, título, problema, hipótese e objetivos iniciais do TCC. | Permite iniciar protocolo de pesquisa, backlog, levantamento de fontes e escrita da introdução. |
 | 2026-05-01 | Registrar fontes externas do software Partilha Certa. | Permite consultar README.md e CLAUDE.md do sistema sem copiar o projeto para o repositório do TCC. |
 | 2026-05-02 | Definir estrutura prevista do referencial teórico. | Orienta levantamento de fontes e escrita da seção 2 do artigo. |
+| 2026-05-02 | Confirmar que a etapa atual é TCC1. | Ajusta o planejamento para artigo de 7 a 10 páginas, com foco em proposta, fundamentação, metodologia e considerações parciais. |
 
 ## Pontos a confirmar
 
 - Tema do TCC.
-- Se o trabalho atual é TCC1 ou TCC2.
 - Nome do orientador ou orientadora.
 - Se abstract e keywords serão obrigatórios.
 - Se a seção final deve ser `Considerações Parciais`, `Considerações Finais` ou `Conclusão`.
@@ -119,11 +119,11 @@ As seguintes skills foram criadas em `C:\Users\rodri\.codex\skills` para apoiar 
 
 ## Próximas ações
 
-1. Confirmar se o trabalho atual é TCC1 ou TCC2.
-2. Validar problema, hipótese e objetivos com o orientador.
+1. Validar problema, hipótese e objetivos com o orientador.
+2. Confirmar nome do orientador ou orientadora.
 3. Levantar referências de conteúdo sobre direito sucessório, Lawtech, modelagem de domínio e validação de software.
 4. Criar fichamentos das fontes principais em `03-fichamentos/por-fonte/`.
-5. Escrever rascunho da introdução em `04-rascunhos/introducao.md`.
+5. Revisar e amadurecer o rascunho da introdução em `04-rascunhos/introducao.md`.
 6. Preparar o template LaTeX oficial em `05-artigo-latex/`.
 
 ## Convenções de organização

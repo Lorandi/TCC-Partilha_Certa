@@ -1,10 +1,10 @@
-# Backlog Inicial do TCC
+# Backlog do TCC1
 
-Este backlog organiza as próximas ações a partir do tema, problema, hipótese e objetivos já definidos.
+Este backlog organiza as próximas ações para uma entrega de TCC1 em formato de artigo. O foco desta etapa é consolidar problema, objetivos, fundamentação, metodologia prevista, escopo do sistema e plano de validação. Resultados completos ficam para o TCC2, salvo se o orientador solicitar uma versão preliminar.
 
 ## Agora
 
-- [ ] Confirmar se o trabalho atual é TCC1 ou TCC2.
+- [x] Confirmar se o trabalho atual é TCC1.
   - **Arquivo:** `MAPA_DO_PROJETO.md`
   - **Critério de conclusão:** campo `TCC` atualizado.
 
@@ -15,6 +15,10 @@ Este backlog organiza as próximas ações a partir do tema, problema, hipótese
 - [ ] Revisar com o orientador o problema de pesquisa, hipótese e objetivo geral.
   - **Arquivo:** `01-planejamento/problema-objetivos-justificativa.md`
   - **Critério de conclusão:** registrar aprovação ou ajustes em `08-revisoes/historico-feedbacks.md`.
+
+- [ ] Escrever rascunho da introdução.
+  - **Arquivo:** `04-rascunhos/introducao.md`
+  - **Critério de conclusão:** texto contendo contexto, problema, justificativa, objetivo geral, metodologia resumida e estrutura do artigo.
 
 - [ ] Levantar fontes jurídicas essenciais sobre direito sucessório brasileiro.
   - **Arquivo:** `02-referencias-conteudo/fontes.md`
@@ -32,9 +36,13 @@ Este backlog organiza as próximas ações a partir do tema, problema, hipótese
   - **Pasta:** `03-fichamentos/por-fonte/`
   - **Critério de conclusão:** fichamento com ideia central, conceitos, contribuição para o TCC e limitações.
 
-- [ ] Escrever rascunho da introdução.
-  - **Arquivo:** `04-rascunhos/introducao.md`
-  - **Critério de conclusão:** texto contendo contexto, problema, justificativa, objetivo geral, metodologia resumida e estrutura do artigo.
+- [ ] Escrever rascunho do referencial teórico.
+  - **Arquivo inicial:** `04-rascunhos/referencial-teorico.md`
+  - **Critério de conclusão:** conceitos jurídicos, automação jurídica e modelagem de regras organizados com marcações de `[fonte necessária]`.
+
+- [ ] Escrever rascunho da metodologia do TCC1.
+  - **Arquivo inicial:** `04-rascunhos/metodologia.md`
+  - **Critério de conclusão:** abordagem, procedimentos, desenvolvimento previsto e plano de validação descritos.
 
 - [ ] Definir escopo jurídico exato dos cenários sucessórios que serão validados.
   - **Arquivo:** `06-sistema/requisitos/escopo-juridico.md`
@@ -54,21 +62,13 @@ Este backlog organiza as próximas ações a partir do tema, problema, hipótese
   - **Skill sugerida:** `tcc-latex`
   - **Critério de conclusão:** `main.tex` modularizado e pronto para receber seções.
 
-- [ ] Escrever referencial teórico.
-  - **Arquivo inicial:** `04-rascunhos/referencial-teorico.md`
-  - **Critério de conclusão:** conceitos jurídicos, engenharia de software e trabalhos relacionados organizados.
+- [ ] Escrever considerações parciais.
+  - **Arquivo inicial:** `04-rascunhos/consideracoes-parciais.md`
+  - **Critério de conclusão:** retomada do problema, estágio do desenvolvimento, próximos passos e resultados esperados.
 
-- [ ] Escrever metodologia.
-  - **Arquivo inicial:** `04-rascunhos/metodologia.md`
-  - **Critério de conclusão:** abordagem, procedimentos, desenvolvimento e validação descritos.
-
-- [ ] Executar validação dos cenários simulados.
-  - **Pasta:** `06-sistema/testes-validacao/`
-  - **Critério de conclusão:** resultados do sistema comparados com métodos tradicionais.
-
-- [ ] Escrever resultados e discussão.
-  - **Arquivo inicial:** `04-rascunhos/resultados.md`
-  - **Critério de conclusão:** análise de consistência, precisão e tempo de execução.
+- [ ] Preparar cronograma de TCC2.
+  - **Arquivo:** `01-planejamento/cronograma.md`
+  - **Critério de conclusão:** etapas de desenvolvimento, validação, análise e escrita final organizadas.
 
 - [ ] Revisar o artigo antes da entrega.
   - **Skill sugerida:** `tcc-revisor`
@@ -76,9 +76,8 @@ Este backlog organiza as próximas ações a partir do tema, problema, hipótese
 
 ## Bloqueios ou dúvidas
 
-- O trabalho será TCC1 ou TCC2?
 - Abstract e keywords serão obrigatórios?
 - A seção final deverá se chamar `Considerações Parciais`, `Considerações Finais` ou `Conclusão`?
 - O cronograma deve entrar no artigo ou apenas ficar como planejamento?
 - Quais regras sucessórias serão excluídas explicitamente do escopo?
-- Qual será o método tradicional usado para comparação: cálculo manual, planilha, parecer de especialista ou outro?
+- Qual será o método tradicional usado para comparação futura: cálculo manual, planilha, parecer de especialista ou outro?

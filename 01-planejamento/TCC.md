@@ -9,7 +9,7 @@
 - **Instituição:** IFRS - Campus Porto Alegre
 - **Autor:** A definir
 - **Orientador(a):** A definir
-- **TCC1 ou TCC2:** A definir
+- **TCC1 ou TCC2:** TCC1
 
 ## Objeto de estudo
 
@@ -70,7 +70,7 @@ Subseções previstas:
 
 | Parte | Status | Observações |
 | --- | --- | --- |
-| Introdução | Planejada | Tema, problema, hipótese e objetivos definidos. |
+| Introdução | Rascunho inicial | Primeira versão salva em `04-rascunhos/introducao.md`; requer fontes e revisão. |
 | Referencial teórico | Estruturado | Estrutura prevista salva em `01-planejamento/estrutura-referencial-teorico.md`; requer levantamento de fontes. |
 | Metodologia | Planejada | Precisa detalhar desenho da validação por cenários simulados. |
 | Resultados e discussão | Não iniciado | Depende dos cenários de validação. |

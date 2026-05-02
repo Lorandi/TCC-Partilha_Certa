@@ -1,3 +1,4 @@
 ﻿# Ideias Soltas
 
-Use este arquivo para registrar ideias ainda não organizadas.
+
+- pesquisar responsabilidade civil do advogado no cálculo do itcmd (fonte para a pesquisa)
