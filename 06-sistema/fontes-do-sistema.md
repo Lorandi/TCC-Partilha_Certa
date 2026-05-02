@@ -13,11 +13,12 @@ Este arquivo registra onde buscar informações técnicas do software Partilha C
 | Arquivo | Caminho | Uso no TCC |
 | --- | --- | --- |
 | `README.md` | `C:\projetos\Herança+\heranca-app\README.md` | Visão geral do sistema, instalação, funcionalidades, tecnologias e execução. |
-| `CLAUDE.md` | `C:\projetos\Herança+\heranca-app\CLAUDE.md` | Contexto técnico, decisões de arquitetura, comandos, padrões, regras de desenvolvimento e observações úteis para agentes. |
+| `CLAUDE.md` | `C:\projetos\Herança+\heranca-app\CLAUDE.md` | Fonte da verdade técnica do sistema: contexto técnico, decisões de arquitetura, comandos, padrões, regras de negócio, comportamento implementado e observações úteis para agentes. |
 
 ## Como usar essas fontes
 
 - Usar como documentação técnica do sistema.
+- Priorizar `CLAUDE.md` quando a escrita ou o planejamento envolverem o que o Partilha Certa faz, não faz ou já implementa.
 - Extrair informações para arquivos em `06-sistema/`, especialmente visão geral, requisitos, arquitetura, regras de negócio e plano de validação.
 - Não tratar `README.md` e `CLAUDE.md` como referências acadêmicas.
 - Não copiar conteúdo automaticamente para o artigo sem revisar, sintetizar e adaptar ao tom acadêmico.

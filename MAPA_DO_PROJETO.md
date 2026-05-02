@@ -82,6 +82,8 @@ Pendências antes de usar como base final:
 | 2026-05-01 | Registrar fontes externas do software Partilha Certa. | Permite consultar README.md e CLAUDE.md do sistema sem copiar o projeto para o repositório do TCC. |
 | 2026-05-02 | Definir estrutura prevista do referencial teórico. | Orienta levantamento de fontes e escrita da seção 2 do artigo. |
 | 2026-05-02 | Confirmar que a etapa atual é TCC1. | Ajusta o planejamento para artigo de 7 a 10 páginas, com foco em proposta, fundamentação, metodologia e considerações parciais. |
+| 2026-05-02 | Usar `C:\projetos\Herança+\heranca-app\CLAUDE.md` como fonte da verdade técnica do Partilha Certa. | Garante que o escopo jurídico e a descrição do sistema no TCC sejam validados contra o comportamento real documentado do software. |
+| 2026-05-02 | Consolidar escopo jurídico inicial em `06-sistema/requisitos/escopo-juridico.md`. | Separa regras centrais, secundárias e fora do escopo, com aderência ao sistema real. |
 
 ## Pontos a confirmar
 
@@ -123,8 +125,9 @@ As seguintes skills foram criadas em `C:\Users\rodri\.codex\skills` para apoiar 
 2. Confirmar nome do orientador ou orientadora.
 3. Levantar referências de conteúdo sobre direito sucessório, Lawtech, modelagem de domínio e validação de software.
 4. Criar fichamentos das fontes principais em `03-fichamentos/por-fonte/`.
-5. Revisar e amadurecer o rascunho da introdução em `04-rascunhos/introducao.md`.
-6. Preparar o template LaTeX oficial em `05-artigo-latex/`.
+5. Transformar o escopo jurídico consolidado em quadro resumido para uso no artigo.
+6. Revisar e amadurecer o rascunho da introdução em `04-rascunhos/introducao.md`.
+7. Preparar o template LaTeX oficial em `05-artigo-latex/`.
 
 ## Convenções de organização
 
