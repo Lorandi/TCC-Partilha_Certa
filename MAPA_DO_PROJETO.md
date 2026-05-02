@@ -80,6 +80,7 @@ Pendências antes de usar como base final:
 | 2026-05-01 | Criar tres skills de apoio ao TCC. | Simplifica o fluxo em backlog/escrita, revisao e LaTeX. |
 | 2026-05-01 | Definir tema, título, problema, hipótese e objetivos iniciais do TCC. | Permite iniciar protocolo de pesquisa, backlog, levantamento de fontes e escrita da introdução. |
 | 2026-05-01 | Registrar fontes externas do software Partilha Certa. | Permite consultar README.md e CLAUDE.md do sistema sem copiar o projeto para o repositório do TCC. |
+| 2026-05-02 | Definir estrutura prevista do referencial teórico. | Orienta levantamento de fontes e escrita da seção 2 do artigo. |
 
 ## Pontos a confirmar
 

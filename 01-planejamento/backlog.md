@@ -18,10 +18,12 @@ Este backlog organiza as próximas ações a partir do tema, problema, hipótese
 
 - [ ] Levantar fontes jurídicas essenciais sobre direito sucessório brasileiro.
   - **Arquivo:** `02-referencias-conteudo/fontes.md`
+  - **Base de planejamento:** `01-planejamento/estrutura-referencial-teorico.md`
   - **Critério de conclusão:** pelo menos 5 fontes iniciais registradas.
 
 - [ ] Levantar fontes técnicas sobre modelagem de domínio, regras de negócio, testes/validação e Lawtech/legal design, se aplicável.
   - **Arquivo:** `02-referencias-conteudo/fontes.md`
+  - **Base de planejamento:** `01-planejamento/estrutura-referencial-teorico.md`
   - **Critério de conclusão:** pelo menos 4 fontes técnicas iniciais registradas.
 
 ## Próximo

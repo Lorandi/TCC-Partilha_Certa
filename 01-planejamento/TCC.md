@@ -51,12 +51,27 @@ A pesquisa deve combinar revisão bibliográfica e documental sobre direito suce
 
 A validação deverá comparar os resultados produzidos pelo sistema com cálculos realizados por métodos tradicionais, observando consistência jurídica, precisão dos valores calculados e tempo de execução.
 
+
+## Estrutura prevista do referencial teórico
+
+A estrutura detalhada do referencial teórico está registrada em:
+
+`01-planejamento/estrutura-referencial-teorico.md`
+
+Subseções previstas:
+
+1. Fundamentos do Direito Sucessório Brasileiro.
+2. Estrutura da Partilha de Bens.
+3. Complexidade e Desafios do Cálculo Sucessório.
+4. Legaltech e Automação no Direito.
+5. Modelagem de Domínio e Regras de Negócio.
+
 ## Estado da escrita
 
 | Parte | Status | Observações |
 | --- | --- | --- |
 | Introdução | Planejada | Tema, problema, hipótese e objetivos definidos. |
-| Referencial teórico | Não iniciado | Requer fontes de direito sucessório, Lawtech e engenharia de software. |
+| Referencial teórico | Estruturado | Estrutura prevista salva em `01-planejamento/estrutura-referencial-teorico.md`; requer levantamento de fontes. |
 | Metodologia | Planejada | Precisa detalhar desenho da validação por cenários simulados. |
 | Resultados e discussão | Não iniciado | Depende dos cenários de validação. |
 | Considerações | Não iniciado | Depende dos resultados. |
