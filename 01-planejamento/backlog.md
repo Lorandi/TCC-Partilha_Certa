@@ -30,6 +30,10 @@ Este backlog organiza as próximas ações para uma entrega de TCC1 em formato d
   - **Base de planejamento:** `01-planejamento/estrutura-referencial-teorico.md`
   - **Critério de conclusão:** pelo menos 4 fontes técnicas iniciais registradas.
 
+- [x] Consolidar escopo jurídico do sistema.
+  - **Arquivos:** `06-sistema/requisitos/escopo-juridico.md`, `06-sistema/requisitos/quadro-escopo-sistema.md`
+  - **Critério de conclusão:** escopo detalhado e quadro resumido criados, com referência ao `CLAUDE.md` como fonte da verdade técnica.
+
 ## Próximo
 
 - [ ] Criar fichamentos das fontes mais importantes.
@@ -44,7 +48,7 @@ Este backlog organiza as próximas ações para uma entrega de TCC1 em formato d
   - **Arquivo inicial:** `04-rascunhos/metodologia.md`
   - **Critério de conclusão:** abordagem, procedimentos, desenvolvimento previsto e plano de validação descritos.
 
-- [ ] Definir escopo jurídico exato dos cenários sucessórios que serão validados.
+- [x] Definir escopo jurídico exato dos cenários sucessórios que serão validados.
   - **Arquivo:** `06-sistema/requisitos/escopo-juridico.md`
   - **Critério de conclusão:** lista do que entra e do que fica fora do motor de cálculo no TCC.
 
@@ -79,5 +83,4 @@ Este backlog organiza as próximas ações para uma entrega de TCC1 em formato d
 - Abstract e keywords serão obrigatórios?
 - A seção final deverá se chamar `Considerações Parciais`, `Considerações Finais` ou `Conclusão`?
 - O cronograma deve entrar no artigo ou apenas ficar como planejamento?
-- Quais regras sucessórias serão excluídas explicitamente do escopo?
 - Qual será o método tradicional usado para comparação futura: cálculo manual, planilha, parecer de especialista ou outro?

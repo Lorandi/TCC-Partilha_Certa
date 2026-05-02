@@ -66,6 +66,14 @@ Subseções previstas:
 4. Legaltech e Automação no Direito.
 5. Modelagem de Domínio e Regras de Negócio.
 
+## Documentação do sistema
+
+| Arquivo | Função | Status |
+| --- | --- | --- |
+| `06-sistema/fontes-do-sistema.md` | Índice das fontes técnicas externas do Partilha Certa. | Criado |
+| `06-sistema/requisitos/escopo-juridico.md` | Escopo jurídico detalhado, validado contra o comportamento real do sistema. | Criado |
+| `06-sistema/requisitos/quadro-escopo-sistema.md` | Quadro resumido do escopo para uso na metodologia ou seção do sistema no artigo. | Criado |
+
 ## Estado da escrita
 
 | Parte | Status | Observações |

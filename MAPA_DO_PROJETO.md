@@ -84,6 +84,7 @@ Pendências antes de usar como base final:
 | 2026-05-02 | Confirmar que a etapa atual é TCC1. | Ajusta o planejamento para artigo de 7 a 10 páginas, com foco em proposta, fundamentação, metodologia e considerações parciais. |
 | 2026-05-02 | Usar `C:\projetos\Herança+\heranca-app\CLAUDE.md` como fonte da verdade técnica do Partilha Certa. | Garante que o escopo jurídico e a descrição do sistema no TCC sejam validados contra o comportamento real documentado do software. |
 | 2026-05-02 | Consolidar escopo jurídico inicial em `06-sistema/requisitos/escopo-juridico.md`. | Separa regras centrais, secundárias e fora do escopo, com aderência ao sistema real. |
+| 2026-05-02 | Criar quadro resumido do escopo do sistema em `06-sistema/requisitos/quadro-escopo-sistema.md`. | Fornece uma versão compacta do escopo para adaptação à metodologia ou seção do sistema no artigo. |
 
 ## Pontos a confirmar
 
@@ -109,6 +110,13 @@ Fonte principal do sistema:
 
 Essas fontes devem ser usadas como documentação técnica do sistema, não como referência acadêmica. Conteúdos extraídos delas devem ser sintetizados e adaptados ao texto do TCC.
 
+Arquivos derivados já criados:
+
+| Arquivo | Uso |
+| --- | --- |
+| `06-sistema/requisitos/escopo-juridico.md` | Matriz detalhada do escopo jurídico, com aderência ao sistema real. |
+| `06-sistema/requisitos/quadro-escopo-sistema.md` | Quadro resumido do escopo para adaptação ao artigo. |
+
 ## Skills de apoio
 
 As seguintes skills foram criadas em `C:\Users\rodri\.codex\skills` para apoiar o fluxo do TCC:
@@ -125,8 +133,8 @@ As seguintes skills foram criadas em `C:\Users\rodri\.codex\skills` para apoiar 
 2. Confirmar nome do orientador ou orientadora.
 3. Levantar referências de conteúdo sobre direito sucessório, Lawtech, modelagem de domínio e validação de software.
 4. Criar fichamentos das fontes principais em `03-fichamentos/por-fonte/`.
-5. Transformar o escopo jurídico consolidado em quadro resumido para uso no artigo.
-6. Revisar e amadurecer o rascunho da introdução em `04-rascunhos/introducao.md`.
+5. Revisar e amadurecer o rascunho da introdução em `04-rascunhos/introducao.md`.
+6. Escrever rascunho da metodologia em `04-rascunhos/metodologia.md`, usando `06-sistema/requisitos/quadro-escopo-sistema.md`.
 7. Preparar o template LaTeX oficial em `05-artigo-latex/`.
 
 ## Convenções de organização
