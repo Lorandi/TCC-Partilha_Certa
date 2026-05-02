@@ -79,6 +79,7 @@ Pendências antes de usar como base final:
 | 2026-05-01 | Criar este mapa como memória viva do projeto. | Centraliza estado, estrutura, decisões e próximos passos. |
 | 2026-05-01 | Criar tres skills de apoio ao TCC. | Simplifica o fluxo em backlog/escrita, revisao e LaTeX. |
 | 2026-05-01 | Definir tema, título, problema, hipótese e objetivos iniciais do TCC. | Permite iniciar protocolo de pesquisa, backlog, levantamento de fontes e escrita da introdução. |
+| 2026-05-01 | Registrar fontes externas do software Partilha Certa. | Permite consultar README.md e CLAUDE.md do sistema sem copiar o projeto para o repositório do TCC. |
 
 ## Pontos a confirmar
 
@@ -90,6 +91,20 @@ Pendências antes de usar como base final:
 - Se o cronograma deve entrar no artigo ou ficar apenas como planejamento.
 - Se a entrega final será somente PDF ou também arquivos-fonte LaTeX.
 
+
+
+## Sistema Partilha Certa
+
+As informações técnicas do software Partilha Certa ficam em fontes externas registradas em:
+
+`06-sistema/fontes-do-sistema.md`
+
+Fonte principal do sistema:
+
+- **Caminho local:** `C:\projetos\Herança+\heranca-app`
+- **Repositório remoto:** `https://github.com/Lorandi/heranca-app`
+
+Essas fontes devem ser usadas como documentação técnica do sistema, não como referência acadêmica. Conteúdos extraídos delas devem ser sintetizados e adaptados ao texto do TCC.
 
 ## Skills de apoio
 
