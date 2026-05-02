@@ -4,7 +4,7 @@ Registre aqui apenas fontes que sustentam o conteúdo do TCC. Esta lista começa
 
 | Fonte | Tipo | Tema relacionado | Como será usada | Status |
 | --- | --- | --- | --- | --- |
-| Código Civil Brasileiro | Legislação | Direito sucessório, herdeiros, legítima, ordem de vocação hereditária, sucessão legítima | Base normativa para delimitar regras implementadas e cenários de validação | A levantar |
+| BRASIL. Lei nº 10.406, de 10 de janeiro de 2002. Código Civil. Disponível em: <https://www.planalto.gov.br/Ccivil_03/leis/2002/L10406compilada.htm>. | Legislação | Direito sucessório, herdeiros, legítima, ordem de vocação hereditária, sucessão legítima | Base normativa para delimitar regras implementadas, fundamentar conceitos jurídicos e estruturar cenários de validação | Registrada |
 | Doutrina de Direito Civil/Sucessões | Livro | Sucessão, herança, meação, legítima, representação e partilha | Fundamentar conceitos jurídicos do referencial teórico | A levantar |
 | Fonte acadêmica sobre Legaltech/Lawtech | Artigo/livro | Tecnologia aplicada ao Direito | Contextualizar o Partilha Certa como ferramenta de apoio jurídico | A levantar |
 | Fonte sobre automação jurídica | Artigo/livro | Automação de processos jurídicos e limites da automação | Apoiar a justificativa e os limites do sistema | A levantar |

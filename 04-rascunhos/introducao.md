@@ -5,7 +5,7 @@
 
 ## Texto em desenvolvimento
 
-A partilha de bens no direito sucessório brasileiro envolve a aplicação de regras jurídicas e cálculos patrimoniais que exigem precisão, organização e rastreabilidade. Elementos como a identificação dos herdeiros, a distinção entre bens comuns e particulares, a apuração da meação, a definição do monte hereditário, a legítima, a parte disponível, as dívidas do espólio e a ordem de vocação hereditária influenciam diretamente o resultado da divisão patrimonial. Quando esse processo é conduzido manualmente ou com apoio de instrumentos pouco padronizados, há maior risco de inconsistências, retrabalho e dificuldade de conferência dos valores obtidos. [fonte pesquisa com advodados necessária]
+A partilha de bens no direito sucessório brasileiro envolve a aplicação de regras jurídicas e cálculos patrimoniais que exigem precisão, organização e rastreabilidade. Elementos como a identificação dos herdeiros, a distinção entre bens comuns e particulares, a apuração da meação, a definição do monte hereditário, a legítima, a parte disponível, as dívidas do espólio e a ordem de vocação hereditária decorrem de regras previstas no Código Civil brasileiro e influenciam diretamente o resultado da divisão patrimonial (BRASIL, 2002). Quando esse processo é conduzido manualmente ou com apoio de instrumentos pouco padronizados, há maior risco de inconsistências, retrabalho e dificuldade de conferência dos valores obtidos. [fonte pesquisa com advodados necessária]
 
 No contexto de Tecnologioa da Informação, esse problema permite investigar como regras de um domínio jurídico especializado podem ser representadas em estruturas computacionais. A construção de uma aplicação web para apoio ao cálculo de partilha de bens exige transformar conceitos jurídicos em entidades, atributos, relações e regras de negócio, preservando o escopo jurídico definido e tornando explícitos os limites da automação. Dessa forma, o sistema não substitui a interpretação profissional do Direito, mas pode apoiar a organização dos dados, a execução dos cálculos e a conferência dos resultados. [fonte necessária]
 
@@ -21,7 +21,7 @@ O artigo está organizado da seguinte forma: a seção 2 apresenta o referencial
 
 ## Pendências
 
-- Inserir fontes para direito sucessório e partilha de bens.
+- Complementar o Código Civil com doutrina de direito sucessório e partilha de bens.
 - Inserir fontes para Legaltech, automação jurídica e limites da automação.
 - Inserir fontes para modelagem de domínio, regras de negócio e validação de software.
 - Confirmar com o orientador se a estrutura terá uma seção própria para `Sistema Desenvolvido` ou se essa descrição ficará dentro de `Metodologia`.
