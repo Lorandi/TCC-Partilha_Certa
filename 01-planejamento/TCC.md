@@ -8,7 +8,7 @@
 - **Curso:** Tecnologia em Sistemas para Internet
 - **Instituição:** IFRS - Campus Porto Alegre
 - **Autor:** A definir
-- **Orientador(a):** A definir
+- **Orientador:** Rodrigo Prestes Machado
 - **TCC1 ou TCC2:** TCC1
 
 ## Objeto de estudo
@@ -82,5 +82,11 @@ Subseções previstas:
 | Referencial teórico | Estruturado | Estrutura prevista salva em `01-planejamento/estrutura-referencial-teorico.md`; requer levantamento de fontes. |
 | Metodologia | Planejada | Precisa detalhar desenho da validação por cenários simulados. |
 | Resultados e discussão | Não iniciado | Depende dos cenários de validação. |
-| Considerações | Não iniciado | Depende dos resultados. |
+| Considerações Parciais | Não iniciado | Deve fechar o TCC1 indicando limites atuais e continuidade prevista para o TCC2. |
 | Referências | Não iniciado | Precisa iniciar levantamento de conteúdo. |
+
+## Decisões de estrutura
+
+- O artigo terá `Abstract` e `Keywords`, mas esses itens serão redigidos ao final.
+- O cronograma ficará fora do artigo até segunda ordem.
+- A seção final do TCC1 será `Considerações Parciais`.

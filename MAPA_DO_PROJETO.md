@@ -9,6 +9,7 @@ Este arquivo é a memória operacional do TCC. Ele deve ser atualizado sempre qu
 - **Título provisório:** Automação da partilha de bens no direito sucessório brasileiro: proposta e implementação de uma ferramenta de apoio jurídico.
 - **Curso:** Tecnologia em Sistemas para Internet.
 - **Instituição:** IFRS - Campus Porto Alegre.
+- **Orientador:** Rodrigo Prestes Machado.
 - **Tema:** Automação da partilha de bens no direito sucessório brasileiro.
 - **Recorte:** Modelagem e implementação de regras sucessórias brasileiras em uma aplicação web para cálculo e simulação de partilha de bens.
 - **Problema de pesquisa:** Como modelar e implementar regras do direito sucessório brasileiro em um sistema computacional de forma a favorecer a consistência jurídica e a precisão nos cálculos de partilha de bens?
@@ -51,8 +52,9 @@ Local: `09-referencias-formato/normas-e-guias/`
 - `Template_Artigo SSI.docx.pdf`
 - `7. Como elaborar um artigo.pptx.pdf`
 - `guia-de-boas-praticas-na-pesquisa-cientifica.pdf`
+- `Manual-para-elaboracao-de-trabalhos-academicos.pdf`
 
-Uso: regras de formatação, estrutura esperada, limites de páginas, resumo, palavras-chave, referências, anexos/apêndices e boas práticas contra plágio.
+Uso: regras de formatação, estrutura esperada, limites de páginas, resumo, palavras-chave, referências, anexos/apêndices, boas práticas contra plágio e padrões gerais de trabalhos acadêmicos.
 
 ### Template LaTeX
 
@@ -85,14 +87,15 @@ Pendências antes de usar como base final:
 | 2026-05-02 | Usar `C:\projetos\Herança+\heranca-app\CLAUDE.md` como fonte da verdade técnica do Partilha Certa. | Garante que o escopo jurídico e a descrição do sistema no TCC sejam validados contra o comportamento real documentado do software. |
 | 2026-05-02 | Consolidar escopo jurídico inicial em `06-sistema/requisitos/escopo-juridico.md`. | Separa regras centrais, secundárias e fora do escopo, com aderência ao sistema real. |
 | 2026-05-02 | Criar quadro resumido do escopo do sistema em `06-sistema/requisitos/quadro-escopo-sistema.md`. | Fornece uma versão compacta do escopo para adaptação à metodologia ou seção do sistema no artigo. |
+| 2026-05-02 | Confirmar Rodrigo Prestes Machado como orientador. | Permite preparar a identificação do artigo e remover pendência de autoria/orientação. |
+| 2026-05-02 | Confirmar que o artigo terá Abstract e Keywords, mas que serão redigidos ao final. | Evita antecipar tradução antes de estabilizar resumo, objetivos, metodologia e resultados esperados. |
+| 2026-05-02 | Manter cronograma fora do artigo até segunda ordem. | O cronograma permanece como planejamento interno, salvo solicitação posterior do orientador ou da disciplina. |
+| 2026-05-02 | Usar `Considerações Parciais` como seção final do TCC1. | Deixa claro que o TCC1 fecha a proposta e prepara a continuidade da validação e análise no TCC2. |
+| 2026-05-04 | Registrar `Manual-para-elaboracao-de-trabalhos-academicos.pdf` como guia de apoio à criação e formatação do trabalho. | Complementa as normas e guias usados para estrutura, apresentação e padronização acadêmica, sem misturar com fontes de conteúdo. |
 
 ## Pontos a confirmar
 
 - Tema do TCC.
-- Nome do orientador ou orientadora.
-- Se abstract e keywords serão obrigatórios.
-- Se a seção final deve ser `Considerações Parciais`, `Considerações Finais` ou `Conclusão`.
-- Se o cronograma deve entrar no artigo ou ficar apenas como planejamento.
 - Se a entrega final será somente PDF ou também arquivos-fonte LaTeX.
 
 
