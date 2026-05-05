@@ -92,6 +92,7 @@ Pendências antes de usar como base final:
 | 2026-05-02 | Manter cronograma fora do artigo até segunda ordem. | O cronograma permanece como planejamento interno, salvo solicitação posterior do orientador ou da disciplina. |
 | 2026-05-02 | Usar `Considerações Parciais` como seção final do TCC1. | Deixa claro que o TCC1 fecha a proposta e prepara a continuidade da validação e análise no TCC2. |
 | 2026-05-04 | Registrar `Manual-para-elaboracao-de-trabalhos-academicos.pdf` como guia de apoio à criação e formatação do trabalho. | Complementa as normas e guias usados para estrutura, apresentação e padronização acadêmica, sem misturar com fontes de conteúdo. |
+| 2026-05-04 | Gerar material preliminar em PDF para envio ao orientador. | Consolida tema, problema, objetivos, justificativa, introdução preliminar, estrutura do referencial, metodologia prevista, escopo do sistema e referências iniciais em `07-entregas/tcc1/2026-05-04-material-preliminar-orientador.pdf`. |
 
 ## Pontos a confirmar
 
