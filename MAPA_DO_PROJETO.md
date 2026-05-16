@@ -53,6 +53,7 @@ Local: `09-referencias-formato/normas-e-guias/`
 - `7. Como elaborar um artigo.pptx.pdf`
 - `guia-de-boas-praticas-na-pesquisa-cientifica.pdf`
 - `Manual-para-elaboracao-de-trabalhos-academicos.pdf`
+- `Normas ABNT.pptx.pdf`
 
 Uso: regras de formatação, estrutura esperada, limites de páginas, resumo, palavras-chave, referências, anexos/apêndices, boas práticas contra plágio e padrões gerais de trabalhos acadêmicos.
 
@@ -83,14 +84,16 @@ Pendências antes de usar como base final:
 | 2026-05-01 | Definir tema, título, problema, hipótese e objetivos iniciais do TCC. | Permite iniciar protocolo de pesquisa, backlog, levantamento de fontes e escrita da introdução. |
 | 2026-05-01 | Registrar fontes externas do software Partilha Certa. | Permite consultar README.md e CLAUDE.md do sistema sem copiar o projeto para o repositório do TCC. |
 | 2026-05-02 | Definir estrutura prevista do referencial teórico. | Orienta levantamento de fontes e escrita da seção 2 do artigo. |
-| 2026-05-02 | Confirmar que a etapa atual é TCC1. | Ajusta o planejamento para artigo de 7 a 10 páginas, com foco em proposta, fundamentação, metodologia e considerações parciais. |
+| 2026-05-02 | Confirmar que a etapa atual é TCC1. | Ajusta o planejamento para artigo de 7 a 10 páginas, com foco em proposta, fundamentação, metodologia, escopo e modelagem do sistema, com fechamento em considerações finais e conclusão. |
 | 2026-05-02 | Usar `C:\projetos\Herança+\heranca-app\CLAUDE.md` como fonte da verdade técnica do Partilha Certa. | Garante que o escopo jurídico e a descrição do sistema no TCC sejam validados contra o comportamento real documentado do software. |
 | 2026-05-02 | Consolidar escopo jurídico inicial em `06-sistema/requisitos/escopo-juridico.md`. | Separa regras centrais, secundárias e fora do escopo, com aderência ao sistema real. |
 | 2026-05-02 | Criar quadro resumido do escopo do sistema em `06-sistema/requisitos/quadro-escopo-sistema.md`. | Fornece uma versão compacta do escopo para adaptação à metodologia ou seção do sistema no artigo. |
 | 2026-05-02 | Confirmar Rodrigo Prestes Machado como orientador. | Permite preparar a identificação do artigo e remover pendência de autoria/orientação. |
 | 2026-05-02 | Confirmar que o artigo terá Abstract e Keywords, mas que serão redigidos ao final. | Evita antecipar tradução antes de estabilizar resumo, objetivos, metodologia e resultados esperados. |
 | 2026-05-02 | Manter cronograma fora do artigo até segunda ordem. | O cronograma permanece como planejamento interno, salvo solicitação posterior do orientador ou da disciplina. |
-| 2026-05-02 | Usar `Considerações Parciais` como seção final do TCC1. | Deixa claro que o TCC1 fecha a proposta e prepara a continuidade da validação e análise no TCC2. |
+| 2026-05-16 | Adotar estrutura com seção própria para modelagem do sistema e fechamento em considerações finais e conclusão. | Alinha a introdução e o planejamento à organização atual do artigo, com seções distintas para escopo/proposta e modelagem do sistema. |
+| 2026-05-16 | Redigir primeiro rascunho da seção 2 em `04-rascunhos/secao-2-referencial-teorico.md`, mantendo marcações explícitas de lacunas bibliográficas. | Permite avançar na escrita do artigo sem inventar doutrina ou referências ainda não levantadas, deixando visíveis os pontos que exigem reforço teórico. |
+| 2026-05-16 | Adotar nas citações em autor-data o padrão com inicial maiúscula no sobrenome e ano sem vírgula, como `(Fachini 2021)` e `(Brasil 2002)`. | Alinha a escrita do TCC à convenção de citação observada em `09-referencias-formato/normas-e-guias/Normas ABNT.pptx.pdf` e evita alternância de estilos ao longo do texto. |
 | 2026-05-04 | Registrar `Manual-para-elaboracao-de-trabalhos-academicos.pdf` como guia de apoio à criação e formatação do trabalho. | Complementa as normas e guias usados para estrutura, apresentação e padronização acadêmica, sem misturar com fontes de conteúdo. |
 | 2026-05-04 | Gerar material preliminar em PDF para envio ao orientador. | Consolida tema, problema, objetivos, justificativa, introdução preliminar, estrutura do referencial, metodologia prevista, escopo do sistema e referências iniciais em `07-entregas/tcc1/2026-05-04-material-preliminar-orientador.pdf`. |
 
