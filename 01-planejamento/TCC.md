@@ -79,7 +79,7 @@ Subseções previstas:
 | Parte | Status | Observações |
 | --- | --- | --- |
 | Introdução | Rascunho inicial | Primeira versão salva em `04-rascunhos/introducao.md`; requer fontes e revisão. |
-| Referencial teórico | Estruturado | Estrutura prevista salva em `01-planejamento/estrutura-referencial-teorico.md`; requer levantamento de fontes. |
+| Referencial teórico | Finalizado em rascunho | Seção 2 consolidada em `04-rascunhos/secao-2-referencial-teorico.md`, com os subtópicos 2.1 a 2.5 estruturados, revisados e limpos para uso na versão do artigo. |
 | Metodologia | Planejada | Precisa detalhar desenho da validação por cenários simulados. |
 | Resultados e discussão | Não iniciado | Depende dos cenários de validação. |
 | Considerações Parciais | Não iniciado | Deve fechar o TCC1 indicando limites atuais e continuidade prevista para o TCC2. |
