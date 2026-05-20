@@ -93,6 +93,8 @@ Pendências antes de usar como base final:
 | 2026-05-02 | Manter cronograma fora do artigo até segunda ordem. | O cronograma permanece como planejamento interno, salvo solicitação posterior do orientador ou da disciplina. |
 | 2026-05-16 | Adotar estrutura com seção própria para modelagem do sistema e fechamento em considerações finais e conclusão. | Alinha a introdução e o planejamento à organização atual do artigo, com seções distintas para escopo/proposta e modelagem do sistema. |
 | 2026-05-16 | Redigir primeiro rascunho da seção 2 em `04-rascunhos/secao-2-referencial-teorico.md`, mantendo marcações explícitas de lacunas bibliográficas. | Permite avançar na escrita do artigo sem inventar doutrina ou referências ainda não levantadas, deixando visíveis os pontos que exigem reforço teórico. |
+| 2026-05-16 | Estruturar a seção 3 em abordagem da pesquisa, procedimentos metodológicos, etapas de desenvolvimento e estratégia de validação, com rascunho salvo em `04-rascunhos/secao-3-metodologia.md`. | Mantém a metodologia objetiva, aderente ao TCC de TI e alinhada ao desenvolvimento e à validação real do Partilha Certa. |
+| 2026-05-19 | Reestruturar a seção 3 com DSRP como referência organizadora principal, em linha prática de TI e com uso complementar do questionário beta. | Aproxima a metodologia do formato de TCC baseado em artefato, separando melhor problema, objetivos da solução, desenvolvimento, produção de dados e avaliação. |
 | 2026-05-16 | Adotar nas citações em autor-data o padrão com inicial maiúscula no sobrenome e ano sem vírgula, como `(Fachini 2021)` e `(Brasil 2002)`. | Alinha a escrita do TCC à convenção de citação observada em `09-referencias-formato/normas-e-guias/Normas ABNT.pptx.pdf` e evita alternância de estilos ao longo do texto. |
 | 2026-05-04 | Registrar `Manual-para-elaboracao-de-trabalhos-academicos.pdf` como guia de apoio à criação e formatação do trabalho. | Complementa as normas e guias usados para estrutura, apresentação e padronização acadêmica, sem misturar com fontes de conteúdo. |
 | 2026-05-04 | Gerar material preliminar em PDF para envio ao orientador. | Consolida tema, problema, objetivos, justificativa, introdução preliminar, estrutura do referencial, metodologia prevista, escopo do sistema e referências iniciais em `07-entregas/tcc1/2026-05-04-material-preliminar-orientador.pdf`. |
@@ -141,7 +143,7 @@ As seguintes skills foram criadas em `C:\Users\rodri\.codex\skills` para apoiar 
 3. Levantar referências de conteúdo sobre direito sucessório, Lawtech, modelagem de domínio e validação de software.
 4. Criar fichamentos das fontes principais em `03-fichamentos/por-fonte/`.
 5. Revisar e amadurecer o rascunho da introdução em `04-rascunhos/introducao.md`.
-6. Escrever rascunho da metodologia em `04-rascunhos/metodologia.md`, usando `06-sistema/requisitos/quadro-escopo-sistema.md`.
+6. Revisar e fortalecer bibliograficamente o rascunho da metodologia em `04-rascunhos/secao-3-metodologia.md`, incluindo base para DSRP, pesquisa aplicada e uso complementar do questionário beta.
 7. Preparar o template LaTeX oficial em `05-artigo-latex/`.
 
 ## Convenções de organização

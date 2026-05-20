@@ -45,7 +45,7 @@ Este backlog organiza as próximas ações para uma entrega de TCC1 em formato d
   - **Critério de conclusão:** conceitos jurídicos, automação jurídica e modelagem de regras organizados com marcações de `[fonte necessária]`.
 
 - [ ] Escrever rascunho da metodologia do TCC1.
-  - **Arquivo inicial:** `04-rascunhos/metodologia.md`
+  - **Arquivo inicial:** `04-rascunhos/secao-3-metodologia.md`
   - **Critério de conclusão:** abordagem, procedimentos, desenvolvimento previsto e plano de validação descritos.
 
 - [x] Definir escopo jurídico exato dos cenários sucessórios que serão validados.
